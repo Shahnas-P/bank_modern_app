@@ -2,3 +2,4 @@
 
 ## Build Features
  - Navbar
+ - Hero Section
