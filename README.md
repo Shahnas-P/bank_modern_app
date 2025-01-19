@@ -3,3 +3,5 @@
 ## Build Features
  - Navbar
  - Hero Section
+ - Build Stats
+ 
