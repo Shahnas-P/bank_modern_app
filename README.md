@@ -10,5 +10,6 @@
  - Build Testimonials Section
  - Build Client Section 
  - Build CTA Section
+ - Footer
  
  
