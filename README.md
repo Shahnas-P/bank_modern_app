@@ -8,4 +8,6 @@
  - Build Billing Section
  - Build cardDeal Section
  - Build Testimonials Section
+ - Build Client Section
+ 
  
